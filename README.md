@@ -8,7 +8,7 @@ This repository contains my Machine Learning project developed for the [House Pr
 
 ## 🎯 Objective
 
-The goal is build a regression model capable of predicting the sale price of residential homes. The dataset includes 79 explanatory variables describing different aspects of the properties. This challenge requires extensive data cleaning, feature engineering, model tuning and validation.
+The goal is to build a regression model capable of predicting the sale price of residential homes. The dataset includes 79 explanatory variables describing different aspects of the properties. This challenge requires extensive data cleaning, feature engineering, model tuning and validation.
 
 ---
 
