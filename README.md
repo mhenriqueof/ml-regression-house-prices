@@ -8,7 +8,7 @@ This repository contains my Machine Learning project developed for the [House Pr
 
 ## 🎯 Objective
 
-This project is to build a regression model capable of predicting the sale price of residential homes. The dataset includes 79 explanatory variables describing different aspects of the properties. This challenge requires extensive data cleaning, feature engineering, model tuning and validation.
+The goal is build a regression model capable of predicting the sale price of residential homes. The dataset includes 79 explanatory variables describing different aspects of the properties. This challenge requires extensive data cleaning, feature engineering, model tuning and validation.
 
 ---
 
@@ -46,7 +46,7 @@ This stage, detailed in the `2_machine_learning` notebook, focused on selecting 
 1. **Import the DFs and Preprocess**  
     - Load the split datasets and the preprocessing pipeline.
 2. **Feature Selection**  
-    - `**Recursive Feature Elimination with Cross-Validation**` (RFECV) was used to reduce dimensionality and select the most significant features.
+    - `Recursive Feature Elimination with Cross-Validation` (RFECV) was used to reduce dimensionality and select the most significant features.
 3. **Model Selection with Grid Search** 
     - Several regression models were tested, including:
         - Ridge
