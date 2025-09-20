@@ -83,7 +83,7 @@ The `3_prediction` notebook is responsible for producing the final predictions a
 The final model achieved the following performance:
 
 - **Cross-validation RMSLE (on training set):** `0.11678 ± 0.02441`  
-- **Kaggle public leaderboard score:** `0.12030`
+- **Kaggle public leaderboard score:** `0.12030` (top 5%)
 
 ---
 
